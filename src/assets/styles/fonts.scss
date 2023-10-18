@@ -1,0 +1,71 @@
+/* Block weight */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900; /* Assuming "Block" is the heaviest */
+  src: local("Inter"),url('/fonts/Inter-Black.ttf') format('truetype');
+}
+
+/* Bold weight */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Inter"),url('/fonts/Inter-Bold.ttf') format('truetype');
+}
+
+/* ExtraBold weight */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  src: local("Inter"),url('/fonts/Inter-ExtraBold.ttf') format('truetype');
+}
+
+/* ExtraLight weight */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  src: local("Inter"),url('/fonts/Inter-ExtraLight.ttf') format('truetype');
+}
+
+/* Light weight */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  src: local("Inter"),url('/fonts/Inter-Light.ttf') format('truetype');
+}
+
+/* Medium weight */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  src: local("Inter"),url('/fonts/Inter-Medium.ttf') format('truetype');
+}
+
+/* Regular weight */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Inter"),url('/fonts/Inter-Regular.ttf') format('truetype');
+}
+
+/* SemiBold weight */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  src: local("Inter"),url('/fonts/Inter-SemiBold.ttf') format('truetype');
+}
+
+/* Thin weight */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  src: local("Inter"),url('/fonts/Inter-Thin.ttf') format('truetype');
+}
